@@ -1,5 +1,5 @@
 # Java-GUI
-GUI application checking student knowledge from OOP, Abstract classes and Interfaces, Threads, Windows
+GUI application checking student knowledge from OOP, Abstract classes, Threads, Windows
 PJATK GUI 2019    
 
 Project I
