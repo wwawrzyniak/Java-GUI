@@ -24,4 +24,3 @@ Modules are understood as two parts of an application. It does not implicate nec
 
 Format of a saved file is determined by a student. One cannot use “Object Streams” classes.
 
-It's still me, Weronika Wawrzyniak
