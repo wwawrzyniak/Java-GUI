@@ -2,6 +2,7 @@
 GUI application checking student knowledge from OOP, Abstract classes, Threads, Windows
 PJATK GUI 2019    
 
+## Watch the video presenting how the project works
 Project I
 Your task is to create a desktop application, that combines 2 parts:
 
